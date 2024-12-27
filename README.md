@@ -1,5 +1,5 @@
 # 🔥 Create a Responsive QR Code Reader
-## [Live Preview](https://amanayak.github.io/Create-Responsive-QR-Code-Reader)
+## [Live Preview](https://create-responsive-qr-code-reader.vercel.app/)
 ### 🔥 Create a Responsive QR Code Reader
 
 - QR Code Scanning: The app should be able to scan QR codes using the device's camera in real-time and decode the data.
